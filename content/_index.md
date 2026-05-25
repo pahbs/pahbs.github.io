@@ -169,13 +169,20 @@ sections:
 #     flip_alt_rows: false
 #     view: showcase
 #   id: projects
-# - block: collection
-#   content:
-#     subtitle: "boreal forests"
-#     text: '{{< gallery album="Kotuykan River Siberia" >}}'
-#     title: Photos from the field
-#   design:
-#     columns: "1"
+- block: collection
+  content:
+    subtitle: "boreal forests"
+    text: '{{< gallery album="kotuykan-river-siberia" >}}'
+    title: Photos from the field — Kotuykan River, Siberia
+  design:
+    columns: "1"
+- block: collection
+  content:
+    subtitle: "boreal forests"
+    text: '{{< gallery album="seward-peninsula-alaska" >}}'
+    title: Photos from the field — Seward Peninsula, Alaska
+  design:
+    columns: "1"
 - block: collection
   content:
     filters:
