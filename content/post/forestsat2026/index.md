@@ -6,6 +6,10 @@ date: "2026-05-06T13:00:00Z"
 date_end: "2026-05-06T15:00:00Z"
 authors:
   - admin
+image:
+  caption: "ForestSAT title slide"
+  focal_point: "Center"
+  preview_only: false
 tags:
   - ICESat-2
   - ABoVE
@@ -18,7 +22,7 @@ featured: true
 
 ## Talk overview
 
-Conference talk at **ForestSAT 2026** covering the latest results associated with circumpolar boreal forest monitoring with ICESat-2 ATL08 and HLS.
+Conference talk at **ForestSAT 2026** covering the latest results associated with circumpolar boreal forest monitoring with ICESat-2 ATL08 & HLS.
 
 ## Slides
 
