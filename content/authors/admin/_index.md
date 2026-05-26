@@ -85,14 +85,10 @@ title: Paul Montesano
 highlight_name: yes
 ---
 
-Paul Montesano is a research scientist focused on the structure of forests and their relevance for understanding changes to earth system processes [^1] . Through NASA-funded research, he advances the application and integration of a variety of satellite and airborne remote sensing, field observations, and geospatial tools [^2]. He is currently at the NASA Center for Climate Simulation's Data Science Group, working with a team to apply deep learning tools to rich volumes of earth observation data to improve predictions of earth system processes and surface features.
+Paul Montesano is a research scientist focused on the structure of forests and their relevance for understanding changes to earth system processes [^1] . Through NASA-funded research, he advances the application and integration of a variety of satellite and airborne remote sensing, field observations, and geospatial tools [^2]. He collaborates with the Biospheric Sciences Lab, the NASA Center for Climate Simulation's Data Science Group, and the NASA Commercial Spaceborne Data Acquisition Program as a Visiting Research Scientist with the Earth Science Interdisciplinary Center at University of Maryland-College Park.
 
-His work benefits from:
+His work involves:
 
 -   *collaborations* with earth scientists, geographers, engineers, and developers,
 -   *participation* in field expeditions, working groups, and science teams,
--   *hands-on* manipulation of large datasets with high performance computing, and
 -   *communication* of science results through peer-reviewed papers and talks
-
-[^1]: He started his work in geosciences at the Walton Center for Remote Sensing & Spatial Analysis at Rutgers University where he was engaged in state-level environmental mapping of critical habitat. 
-[^2]: He began to focus on the remote sensing of forest structure in the Biospheric Sciences Lab at NASA Goddard Space Flight Center, integrating of a variety of spaceborne & airborne observations to examine detailed patterns of forest structure in remote boreal regions.

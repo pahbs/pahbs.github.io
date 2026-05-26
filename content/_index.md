@@ -49,9 +49,9 @@ sections:
 #    design:
 #      columns: "1"
 - block: experience
-  id: experience
+  id: engagement
   content:
-    title: 'Professional Service & Engagement'
+    title: 'Service & Engagement'
     text: ''
     date_format: Jan 2006
     items:
@@ -130,7 +130,7 @@ sections:
 #     columns: "2"
 - block: collection
   content:
-    count: 2
+    count: 3
     filters:
       author: ""
       category: ""
@@ -147,7 +147,7 @@ sections:
     text: ""
     title: Recent Posts
   design:
-    columns: "2"
+    columns: "3"
     view: compact
   id: posts
 # - block: portfolio
