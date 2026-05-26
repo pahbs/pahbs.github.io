@@ -20,9 +20,9 @@ interests:
 last_name: Montesano
 name_pronunciation: null
 organizations:
-- name: NASA Goddard Space Flight Center | Data Science Group
+- name: NASA Goddard Space Flight Center | Earth Systems Science Interdisciplinary Center, University of Maryland-College Park
   url: https://science.gsfc.nasa.gov/cisto/istr
-role: Senior Research Scientist
+role: Research Scientist
 # skills:
 # - items:
 #   - description: ""
