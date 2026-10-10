@@ -59,8 +59,8 @@ url_slides: ~
 url_source: ~
 url_video: ~
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'Tile-level mean of (a) the ensemble mean and (b) the ensemble standard deviation of aboveground woody biomass density [Mg/ha] across the boreal domain. Figure 7a–b from Duncanson et al. (2026), *Remote Sensing of Environment*, CC BY 4.0.'
+  focal_point: 'Center'
   preview_only: no
 projects:
   - above-boreal-mapping

@@ -12,7 +12,7 @@ tags:
 - boreal
 - forest structure
 image:
-  caption: "v3.1 vegetation height for 2025 over North America (gaps are tiles still being processed)."
+  caption: "v3.1 vegetation height for 2023 over North America, from the interactive map on the ESRI light gray basemap."
   focal_point: Smart
 links:
 - icon: map

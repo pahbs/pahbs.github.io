@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <title>STV: Surface Topography and Vegetation</title>
+  <rect x="2" y="2" width="116" height="116" rx="14" fill="#ffffff" stroke="#2f6f73" stroke-width="4"/>
+  <text x="60" y="74" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#2f6f73">STV</text>
+</svg>

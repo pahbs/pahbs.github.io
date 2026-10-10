@@ -26,18 +26,21 @@ sections:
       location: arctic/sub-arctic
       title: Science Team Member
     - company: Oak Ridge National Laboratory DAAC
+      company_logo: org-ornldaac
       company_url: "https://daac.ornl.gov/"
       date_end: ""
       date_start: "2021-01-01"
       description: serves in an advisory role as an earth science data user to the  NASAs Terrestrial Ecology Program's data repository
       title: User Working Group Member
     - company: NASA Multi-Mission Algorithm and Analysis Platform
+      company_logo: org-maap
       company_url: "https://maap-project.org"
       date_end: ""
       date_start: "2018-01-01"
       description: advisory role as a funded Co-I to NASA MAAP
       title: User Working Group Member
     - company: NASA Surface Topography & Vegetation Working Group Member
+      company_logo: org-stv
       company_url: "https://science.nasa.gov/earth-science/decadal-surveys/decadal-stv/"
       date_end: ""
       date_start: "2024-04-01"
