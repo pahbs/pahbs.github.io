@@ -21,7 +21,7 @@ draft: false
 image:
   caption: "Figure 3 from Montesano et al. (2026), *Environmental Research Letters*, CC BY 4.0."
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 projects: []
 ---

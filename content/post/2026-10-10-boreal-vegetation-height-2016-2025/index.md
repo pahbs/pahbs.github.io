@@ -19,7 +19,7 @@ tags:
 featured: true
 draft: false
 image:
-  caption: "The interactive map zoomed to North America, showing v3.1 vegetation height for 2025 over the ESRI light gray basemap. Gaps are tiles still being processed for 2025."
+  caption: "The interactive map zoomed to North America, showing v3.1 vegetation height for 2023 over the ESRI light gray basemap."
   focal_point: ""
   placement: 2
   preview_only: false
@@ -52,7 +52,7 @@ Because the same model is applied to each year's imagery, the series can be exte
 
 ## Status
 
-This is a work in progress. The 2019–2024 layers are nearly complete across the circumpolar domain. The 2016–2018 and 2025 layers cover a subset of tiles for now, which is why the 2025 view above is patchy. Those gaps are tiles still being processed, not missing forest.
+This is a work in progress. The 2019–2024 layers are nearly complete across the circumpolar domain. The 2016–2018 and 2025 layers cover a subset of tiles for now; if you switch to one of those years in the map, the gaps are tiles still being processed, not missing forest.
 
 Next up is validation against field plots and airborne lidar (LVIS and G-LiHT). It uses stand age to keep only the plots whose structure has not been altered by fire or harvest since they were measured.
 

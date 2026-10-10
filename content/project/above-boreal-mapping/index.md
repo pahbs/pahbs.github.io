@@ -39,8 +39,6 @@ url_video: ""
 
 Part of the NASA [Arctic-Boreal Vulnerability Experiment (ABoVE)](https://above.nasa.gov), this project maps the structure of the circumpolar boreal forest at 30 m. It links ICESat-2 ATL08 lidar samples of vegetation height with Harmonized Landsat Sentinel-2 composites and Copernicus GLO-30 topography, using random forest models run tile by tile on NASA's [Multi-Mission Algorithm and Analysis Platform (MAAP)](https://maap-project.org).
 
-The maps extend south to 51.6°N, the northern observational limit of NASA's GEDI mission, filling GEDI's northern data gap.
-
 **Products**
 
 - Vegetation height for 2020 ([ORNL DAAC dataset](https://doi.org/10.3334/ORNLDAAC/2438))
