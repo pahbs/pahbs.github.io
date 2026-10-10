@@ -13,7 +13,7 @@ image:
   placement: 2
   preview_only: false
 lastmod: "2024-11-03T00:00:00Z"
-projects: [Mapping]
+projects: [above-boreal-mapping]
 subtitle: A rendered `Jupyter` notebook with an [**interactive map**](https://notebooksharing.space/view/68349c623d52dea574975392ac86b9772c2f375f7883d33bf8a4865b9b9e6f46#displayOptions=hide-inputs).
 summary: "Here we share a jupyter notebook running folium and a dynamic raster tiler to display an interactive map of our 2020 boreal aboveground biomass density and forest height estimates. We use this to visually review our results at scale."
 tags:

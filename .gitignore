@@ -16,3 +16,6 @@ Thumbs.db
 
 # Environment / secrets
 .Renviron
+
+# Jupyter
+.ipynb_checkpoints/
