@@ -73,9 +73,14 @@ sections:
   id: maps
   content:
     title: Interactive maps
-    subtitle: 'Circumpolar forest structure, served from NASA MAAP'
+    subtitle: ''
     text: |-
-      Browser-based maps for reviewing 30 m boreal forest structure products at scale. Each map streams cloud-optimized GeoTIFFs through a dynamic tiler; click any pixel to query values.
+      Browser-based maps for reviewing results at scale. Click any feature or pixel to query values.
+
+      ### Arctic & boreal mapping
+      <span class="text-muted"><small>Updated Oct 10, 2026</small></span>
+
+      Circumpolar forest structure products served from NASA MAAP as cloud-optimized GeoTIFFs through a dynamic tiler.
 
       * [**Boreal vegetation height, 2016–2025 (v3.1)**](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1_height_VHR.html): annual 30 m height, plus 2 m height from WorldView-2/3 stereo across Alaska
       * [**Boreal forest structure v3.1**](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1.html): aboveground biomass density and height
@@ -84,6 +89,16 @@ sections:
       * [**ICESat-2 ATL08 v6 vs v7**](https://pahbs.github.io/maap_tools/maps/atl08_v6v7_diff_map.html): differences between ATL08 data releases
 
       Code: [maap_tools](https://github.com/pahbs/maap_tools)
+
+      ### Evaluation sites for commercial spaceborne imagery
+      <span class="text-muted"><small>Updated Sep 24, 2026</small></span>
+
+      Standardized areas of interest (AOIs) for evaluating commercial satellite imagery, each with a unique site name, precise bounds (GeoJSON), and site attributes.
+
+      * [**CSDA Evaluation Sites**](https://pahbs.github.io/csda_summaries/notebooks/aoi_csda_sites_map.html): sites for subject-matter experts to reference when requesting imagery for NASA Commercial Smallsat Data Acquisition (CSDA) evaluations
+      * [**SLI FUSION Evaluation Sites**](https://pahbs.github.io/csda_summaries/notebooks/aoi_eval_sites_map.html): a broader set of calibration/validation sites for radiometric and geometric evaluation work
+
+      Code: [csda_summaries](https://github.com/pahbs/csda_summaries)
   design:
     columns: "1"
 - block: portfolio

@@ -1,5 +1,5 @@
 ---
-title: ABoVE boreal forest structure mapping
+title: Circumpolar boreal forest structure mapping
 summary: "Circumpolar 30 m maps of boreal forest height and aboveground biomass from ICESat-2 and Harmonized Landsat Sentinel-2, produced on NASA MAAP for the Arctic-Boreal Vulnerability Experiment."
 date: "2026-10-10T00:00:00Z"
 authors:
