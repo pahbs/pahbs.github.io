@@ -33,7 +33,7 @@ Conference talk at **ForestSAT 2026** covering the latest results associated wit
 
 ## Related
 
-- [Interactive circumpolar forest structure maps](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1.html)
+- [Interactive circumpolar forest structure maps](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1_boreal_dynamics.html)
 - [ABoVE Project](https://above.nasa.gov)
 
 

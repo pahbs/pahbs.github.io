@@ -32,5 +32,5 @@ links:
 - name: Post
   url: /post/forestsat2026/
 - name: Interactive maps
-  url: https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1.html
+  url: https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1_boreal_dynamics.html
 ---
