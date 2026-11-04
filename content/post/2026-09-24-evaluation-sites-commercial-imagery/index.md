@@ -33,13 +33,13 @@ On both maps, AOIs are drawn with a 25 km vicinity buffer so they stay visible a
 
 ## CSDA Evaluation Sites
 
-**[Open the map ↗](https://pahbs.github.io/csda_summaries/notebooks/aoi_csda_sites_map.html)**
+**[Open the map ↗](https://pahbs.github.io/csda_summaries/html/aoi_csda_sites_map.html)**
 
 A standardized set of locations for subject-matter experts to reference when submitting imagery requests for NASA Commercial Smallsat Data Acquisition (CSDA) evaluations. Using a shared site name and boundary in every request means imagery from different vendors, sensors and dates can be compared over exactly the same ground. The map holds about 240 AOIs, drawn from NASA, JPL, ESA, DLR, KIT, RadCalNet, USGS and USGS 3DEP sites.
 
 ## SLI FUSION Evaluation Sites
 
-**[Open the map ↗](https://pahbs.github.io/csda_summaries/notebooks/aoi_eval_sites_map.html)**
+**[Open the map ↗](https://pahbs.github.io/csda_summaries/html/aoi_eval_sites_map.html)**
 
 A broader database of about 600 AOIs for calibration/validation and other evaluation work. Alongside most of the CSDA sites, it adds established reference networks, mostly for radiometric evaluation:
 

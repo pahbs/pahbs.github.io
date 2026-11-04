@@ -95,8 +95,8 @@ sections:
 
       Standardized areas of interest (AOIs) for evaluating commercial satellite imagery, each with a unique site name, precise bounds (GeoJSON), and site attributes.
 
-      * [**CSDA Evaluation Sites**](https://pahbs.github.io/csda_summaries/notebooks/aoi_csda_sites_map.html): sites for subject-matter experts to reference when requesting imagery for NASA Commercial Smallsat Data Acquisition (CSDA) evaluations
-      * [**SLI FUSION Evaluation Sites**](https://pahbs.github.io/csda_summaries/notebooks/aoi_eval_sites_map.html): a broader set of calibration/validation sites for radiometric and geometric evaluation work
+      * [**CSDA Evaluation Sites**](https://pahbs.github.io/csda_summaries/html/aoi_csda_sites_map.html): sites for subject-matter experts to reference when requesting imagery for NASA Commercial Smallsat Data Acquisition (CSDA) evaluations
+      * [**SLI FUSION Evaluation Sites**](https://pahbs.github.io/csda_summaries/html/aoi_eval_sites_map.html): a broader set of calibration/validation sites for radiometric and geometric evaluation work
 
       Code: [csda_summaries](https://github.com/pahbs/csda_summaries)
   design:
