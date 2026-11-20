@@ -6,47 +6,6 @@ sections:
     title: 
     username: admin
   id: about
-- block: experience
-  id: engagement
-  content:
-    title: 'Service & Engagement'
-    text: ''
-    date_format: Jan 2006
-    items:
-    - company: NASA Arctic/Boreal Vulnerability Experiment
-      company_logo: org-above
-      company_url: "https://above.nasa.gov"
-      date_end: ""
-      date_start: "2019-01-01"
-      description: |2-
-          Responsibilities include:
-          * funded Co-I
-          * Vegetation Structure Working Group Lead
-          * Vegetation Structure & Function Working Group Co-Lead
-      location: arctic/sub-arctic
-      title: Science Team Member
-    - company: Oak Ridge National Laboratory DAAC
-      company_logo: org-ornldaac
-      company_url: "https://daac.ornl.gov/"
-      date_end: ""
-      date_start: "2021-01-01"
-      description: serves in an advisory role as an earth science data user to the  NASAs Terrestrial Ecology Program's data repository
-      title: User Working Group Member
-    - company: NASA Multi-Mission Algorithm and Analysis Platform
-      company_logo: org-maap
-      company_url: "https://maap-project.org"
-      date_end: ""
-      date_start: "2018-01-01"
-      description: advisory role as a funded Co-I to NASA MAAP
-      title: User Working Group Member
-    - company: NASA Surface Topography & Vegetation Working Group Member
-      company_logo: org-stv
-      company_url: "https://science.nasa.gov/earth-science/decadal-surveys/decadal-stv/"
-      date_end: ""
-      date_start: "2024-04-01"
-      # TODO: update description of STV working group role
-      description: ""
-      title: Working Group Member
 - block: collection
   content:
     count: 3
@@ -116,6 +75,47 @@ sections:
     columns: "1"
     view: showcase
     flip_alt_rows: false
+- block: experience
+  id: engagement
+  content:
+    title: 'Service & Engagement'
+    text: ''
+    date_format: Jan 2006
+    items:
+    - company: NASA Arctic/Boreal Vulnerability Experiment
+      company_logo: org-above
+      company_url: "https://above.nasa.gov"
+      date_end: ""
+      date_start: "2019-01-01"
+      description: |2-
+          Responsibilities include:
+          * funded Co-I
+          * Vegetation Structure Working Group Lead
+          * Vegetation Structure & Function Working Group Co-Lead
+      location: arctic/sub-arctic
+      title: Science Team Member
+    - company: Oak Ridge National Laboratory DAAC
+      company_logo: org-ornldaac
+      company_url: "https://daac.ornl.gov/"
+      date_end: ""
+      date_start: "2021-01-01"
+      description: serves in an advisory role as an earth science data user to the  NASAs Terrestrial Ecology Program's data repository
+      title: User Working Group Member
+    - company: NASA Multi-Mission Algorithm and Analysis Platform
+      company_logo: org-maap
+      company_url: "https://maap-project.org"
+      date_end: ""
+      date_start: "2018-01-01"
+      description: advisory role as a funded Co-I to NASA MAAP
+      title: User Working Group Member
+    - company: NASA Surface Topography & Vegetation Working Group Member
+      company_logo: org-stv
+      company_url: "https://science.nasa.gov/earth-science/decadal-surveys/decadal-stv/"
+      date_end: ""
+      date_start: "2024-04-01"
+      # TODO: update description of STV working group role
+      description: ""
+      title: Working Group Member
 - block: markdown
   content:
     subtitle: "boreal forests"
