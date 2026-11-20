@@ -16,7 +16,7 @@ tags:
 featured: false
 draft: false
 image:
-  caption: "Image footprint vs. detail: multispectral GSD against swath width for each constellation."
+  caption: "From the dashboard: image footprint against detail, and spectral response curves for six constellations; commercial in blue, civil in orange."
   focal_point: ""
   placement: 2
   preview_only: false
