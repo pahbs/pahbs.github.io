@@ -85,11 +85,11 @@ title: Paul Montesano
 highlight_name: yes
 ---
 
-Paul Montesano is a research scientist focused on environmental monitoring with remote sensing. His primary interest is studying forest structure patterns, and what they reveal about changing Earth system processes, with a focus on boreal and arctic regions. His NASA-funded research brings together satellite and airborne remote sensing data, field observations, and geospatial tools.
+Paul Montesano is a research scientist who uses remote sensing for environmental monitoring. His primary interest is examining forest structure patterns to explore what they reveal about changing Earth system processes, particularly in boreal and arctic regions. His NASA-funded research brings together satellite and airborne remote sensing data, and field observations, with a variety of geospatial tools.
 
-He began his work in the geosciences at the Walton Center for Remote Sensing & Spatial Analysis at Rutgers University, mapping critical habitat statewide. In the Biospheric Sciences Lab at NASA Goddard Space Flight Center he turned to forest structure, combining spaceborne and airborne observations to map it in detail across remote boreal regions.
+He began his work in the geosciences at the Walton Center for Remote Sensing & Spatial Analysis at Rutgers University, mapping critical habitat statewide. In the Biospheric Sciences Lab at NASA Goddard Space Flight Center he began to focus on forest structure at regional and global scales, combining spaceborne and airborne observations to map it in detail across remote boreal regions.
 
-Currently, he is a Research Scientist with the Earth System Science Interdisciplinary Center at the University of Maryland-College Park, and works with the Biospheric Sciences Lab, the NASA Center for Climate Simulation's Data Science Group, and NASA's Commercial Satellite Data Acquisition (CSDA) Program.
+Currently, he is a Research Scientist at NASA Goddard with the Earth System Science Interdisciplinary Center (University of Maryland-College Park) working with a number of NASA and academic groups including the Biospheric Sciences Lab, the NASA Center for Climate Simulation's Data Science Group, and NASA's Commercial Satellite Data Acquisition (CSDA) Program.
 
 His work involves:
 
