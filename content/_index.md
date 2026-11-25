@@ -44,7 +44,7 @@ sections:
       * [**Boreal vegetation height, 2016–2025**](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1_height_VHR.html): annual 30 m height, plus 2 m height from WorldView-2/3 stereo across Alaska
       * [**Boreal forest biomass, 2016–2025**](https://pahbs.github.io/maap_tools/maps/Review_maps_v3.1_boreal_dynamics.html): annual 30 m aboveground biomass density, stand age, carbon accumulation, and 2016–2025 biomass trends
       * [**Alaska NDVI trends from HLS archive**](https://pahbs.github.io/maap_tools/maps/Review_maps_HLS_trends.html): per-pixel NDVI trend from Harmonized Landsat Sentinel-2
-      * [**Taiga–tundra ecotone extent & pattern (c. 2010)**](https://pahbs.github.io/maap_tools/maps/Review_maps_TTE.html): forest structure patterns across the boreal–tundra transition, with the CAVM treeline
+      * [**Taiga–tundra ecotone extent & pattern (c. 2010)**](https://pahbs.github.io/tte/docs/tte_review_map.html): forest structure patterns across the boreal–tundra transition, with the CAVM treeline
       * [**ICESat-2 ATL08 v6 vs v7**](https://pahbs.github.io/maap_tools/maps/atl08_v6v7_diff_map.html): differences between ATL08 data releases
 
       Code: [maap_tools](https://github.com/pahbs/maap_tools)
