@@ -1,6 +1,6 @@
 ---
 title: "A map interpretation guide for the taiga-tundra ecotone forest pattern classes"
-subtitle: "Choose a conceptual landscape, select a pixel, and see how tree cover and its abruptness, together, describe orest structure pattern."
+subtitle: "Choose a conceptual landscape, select a pixel, and see how tree cover and its abruptness, together, describe forest structure pattern."
 summary: "An interactive guide to how the taiga-tundra ecotone (TTE) forest structure pattern map classifies each 30 m pixel from tree cover and its abruptness."
 date: "2026-11-25T00:00:00Z"
 lastmod: "2026-11-25T00:00:00Z"
