@@ -1,6 +1,6 @@
 ---
 title: "A map interpretation guide for the taiga-tundra ecotone forest pattern classes"
-subtitle: "Pick a conceptual landscape, select a pixel, and see how tree cover and its abruptness set its class."
+subtitle: "Choose a conceptual landscape, select a pixel, and see how tree cover and its abruptness, together, describe orest structure pattern."
 summary: "An interactive guide to how the taiga-tundra ecotone (TTE) forest structure pattern map classifies each 30 m pixel from tree cover and its abruptness."
 date: "2026-11-25T00:00:00Z"
 lastmod: "2026-11-25T00:00:00Z"
@@ -17,7 +17,7 @@ tags:
 featured: false
 draft: false
 image:
-  caption: "From the guide: a gradual treeline as tree cover (left) and the classes it produces (centre), with the arithmetic for one selected pixel (right)."
+  caption: "From the guide: a gradual treeline as tree cover (left) and the classes it produces (center), with the arithmetic for one selected pixel (right)."
   focal_point: ""
   placement: 2
   preview_only: false
@@ -34,7 +34,7 @@ Those classes are easy to state but harder to picture on a map, so I built a sma
 
 Our map describing the pattern and extent of the circumpolar taiga-tundra ecotone has a fairly unruly set of classes. To improve understanding of ecotone forest patterns and help with interpretation this interactive guide to the map's classification explains how various ecotone forest patterns are classified in our map. Choose one of nine conceptual ecotone landscapes (gradual and rapid treelines, sharp edges, tree islands, gaps in forest, thin lines of trees, a checkerboard, a lakeshore). Each one is drawn as a grid of tree cover pixels next to the forest structure pattern classes the map would give them. Select any pixel, or move with the arrow keys, to see:
 
-- **Its four neighbours** and the rate of change in cover across them, computed like a terrain slope with cover in place of elevation.
+- **Its four neighbors** and the rate of change in cover across them, computed like a terrain slope with cover in place of elevation.
 - **Its abruptness**, `(rate − cover) / (rate + cover)`, from −1 (uniform) to +1 (abrupt), with every step of the arithmetic shown.
 - **Its class**, placed on a small tree cover × abruptness chart of the 11 classes.
 
@@ -46,7 +46,7 @@ In a gradual treeline, cover falls by the same 3 % per pixel, so the rate of cha
 
 ![A row across the gradual treeline: tree cover bars with the class and abruptness of each pixel below.](transect.png "One row of the gradual treeline: the slope is constant, but abruptness climbs as cover falls.")
 
-Tree islands, patches of trees in 1 % cover, show the opposite surprise: the pixel *with* the trees can be the most uniform one on the map. A lone 100 % pixel has matching neighbours left and right and up and down, so its rate of change is 0 and its abruptness is −1, the minimum. Its four side neighbours take the change instead, at +0.97, so the island appears as a plus sign of *Sparse & Abrupt* around an *Intermediate & Closed* centre. The middle of a 3 × 3 patch is uniform for the same reason, and a 1 % pixel wedged between two dense pixels gets a high rate because dense cover sits on two of its sides.
+Tree islands, patches of trees in 1 % cover, show the opposite surprise: the pixel *with* the trees can be the most uniform one on the map. A lone 100 % pixel has matching neighbors left and right and up and down, so its rate of change is 0 and its abruptness is −1, the minimum. Its four side neighbors take the change instead, at +0.97, so the island appears as a plus sign of *Sparse & Abrupt* around an *Intermediate & Closed* center. The middle of a 3 × 3 patch is uniform for the same reason, and a 1 % pixel wedged between two dense pixels gets a high rate because dense cover sits on two of its sides.
 
 ![The tree islands landscape: patches of 20 to 100 % cover in 1 % cover, ringed by Sparse & Abrupt pixels in the class grid.](tree_islands.png "The tree islands landscape, with the lone 100 % pixel selected.")
 
