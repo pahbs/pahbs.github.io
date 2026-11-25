@@ -30,9 +30,9 @@ Those classes are easy to state but harder to picture on a map, so I built a sma
 
 **[Open the TTE map interpretation guide ↗](https://pahbs.github.io/tte/docs/tte_interpretation_guide.html)**
 
-## How it works
+## How this guide works
 
-Choose one of nine conceptual landscapes (gradual and rapid treelines, sharp edges, tree islands, gaps in forest, thin lines of trees, a checkerboard, a lakeshore). Each one is drawn as a grid of tree cover pixels next to the forest structure pattern classes the map would give them. Select any pixel, or move with the arrow keys, to see:
+Our map describing the pattern and extent of the circumpolar taiga-tundra ecotone has a fairly unruly set of classes. To improve understanding of ecotone forest patterns and help with interpretation this interactive guide to the map's classification explains how various ecotone forest patterns are classified in our map. Choose one of nine conceptual ecotone landscapes (gradual and rapid treelines, sharp edges, tree islands, gaps in forest, thin lines of trees, a checkerboard, a lakeshore). Each one is drawn as a grid of tree cover pixels next to the forest structure pattern classes the map would give them. Select any pixel, or move with the arrow keys, to see:
 
 - **Its four neighbours** and the rate of change in cover across them, computed like a terrain slope with cover in place of elevation.
 - **Its abruptness**, `(rate − cover) / (rate + cover)`, from −1 (uniform) to +1 (abrupt), with every step of the arithmetic shown.
@@ -40,7 +40,7 @@ Choose one of nine conceptual landscapes (gradual and rapid treelines, sharp edg
 
 You can also change a pixel's cover, mark it as water, or paint on the grid to build your own landscape.
 
-## Things it makes visible
+## What this guide reveals
 
 In a gradual treeline, cover falls by the same 3 % per pixel, so the rate of change is nearly constant. The classes still change across it, because the cover that rate is compared with keeps shrinking: the same slope reads as *Open & Uniform* at 27 % cover and *Sparse & Diffuse-rapid* at 3 %.
 
