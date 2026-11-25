@@ -46,9 +46,9 @@ In a gradual treeline, cover falls by the same 3 % per pixel, so the rate of cha
 
 ![A row across the gradual treeline: tree cover bars with the class and abruptness of each pixel below.](transect.png "One row of the gradual treeline: the slope is constant, but abruptness climbs as cover falls.")
 
-Water is set to 0 % cover before anything is calculated, so a lakeshore looks like a forest edge (*Non-forest edge, wet*), and a small wooded island is edge almost everywhere. Open water away from trees has no change around it and is masked out.
+Tree islands, patches of trees in 1 % cover, show the opposite surprise: the pixel *with* the trees can be the most uniform one on the map. A lone 100 % pixel has matching neighbours left and right and up and down, so its rate of change is 0 and its abruptness is −1, the minimum. Its four side neighbours take the change instead, at +0.97, so the island appears as a plus sign of *Sparse & Abrupt* around an *Intermediate & Closed* centre. The middle of a 3 × 3 patch is uniform for the same reason, and a 1 % pixel wedged between two dense pixels gets a high rate because dense cover sits on two of its sides.
 
-![The lakeshore landscape: forest beside water, with wet non-forest edge pixels along the shore and around a small wooded island.](lakeshore.png "The lakeshore landscape, with a shoreline pixel selected.")
+![The tree islands landscape: patches of 20 to 100 % cover in 1 % cover, ringed by Sparse & Abrupt pixels in the class grid.](tree_islands.png "The tree islands landscape, with the lone 100 % pixel selected.")
 
 ## Where it fits
 
